@@ -9,3 +9,6 @@ It's a homework for a Digital Image Process class when I study in NSYSU.
 5. Outlier, median, high boost, low pass, sobel, pseudo filter.
 
 >Visual Studio 2005
+
+# Demo Video
+https://drive.google.com/file/d/0BxSDcyRG4a7YNEZVWkR3UzR1ZUU/view
